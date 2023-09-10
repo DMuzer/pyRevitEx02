@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "False",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "DMuzer FF",
+    "description": "Tools for modeling firefighting system",
+    "author": "DMuzer",
+    "author_profile": "",
+    "url": "",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
